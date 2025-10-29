@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Milk (1/2 Gallon)",
     "price": 3.99,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Milk_in_a_glass_jug.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Milk_in_a_glass_jug.jpg"
     "category": "Dairy",
     "inStock": true,
     "description": "2% reduced fat milk."
@@ -39,8 +39,7 @@
     "id": 5,
     "name": "Whole Wheat Bread",
     "price": 4.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Whole_wheat_bread.jpg",
-    "category": "Bakery",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Whole_wheat_bread.jpg",    "category": "Bakery",
     "inStock": true,
     "description": "Soft whole wheat loaf."
   }
