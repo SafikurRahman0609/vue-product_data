@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Whole Wheat Bread",
     "price": 4.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Whole_wheat_bread.jpg",    
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Whole_wheat_bread.jpg",
     "category": "Bakery",
     "inStock": true,
     "description": "Soft whole wheat loaf."
