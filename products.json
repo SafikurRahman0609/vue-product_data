@@ -1,47 +1,24 @@
 [
-  {
-    "id": 1,
-    "name": "Apple",
-    "price": 1.25,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
-    "category": "Fruit",
-    "inStock": true,
-    "description": "Crisp red apple, excellent for snacking."
-  },
-  {
-    "id": 2,
-    "name": "Banana",
-    "price": 0.85,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
-    "category": "Fruit",
-    "inStock": true,
-    "description": "Natural energy source, high in potassium."
-  },
-  {
-    "id": 3,
-    "name": "Orange",
-    "price": 1.10,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
-    "category": "Fruit",
-    "inStock": false,
-    "description": "Seedless navel orange, great source of Vitamin C."
-  },
-  {
-    "id": 4,
-    "name": "Milk (1/2 Gallon)",
-    "price": 3.99,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Milk_in_a_glass_jug.jpg",
-    "category": "Dairy",
-    "inStock": true,
-    "description": "2% reduced fat milk."
-  },
-  {
-    "id": 5,
-    "name": "Whole Wheat Bread",
-    "price": 4.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Whole_wheat_bread.jpg",
-    "category": "Bakery",
-    "inStock": true,
-    "description": "Soft whole wheat loaf."
-  }
-]
+        // Sample dataset to display
+        {
+          id: 1,
+          name: "Apple",
+          price: 1.25,
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+        },
+        {
+          id: 2,
+          name: "Banana",
+          price: 0.85,
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+        },
+        {
+          id: 3,
+          name: "Orange",
+          price: 1.1,
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+        },
+      ],
