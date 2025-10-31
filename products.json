@@ -16,5 +16,17 @@
     "name": "Orange",
     "price": 1.1,
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Grapes",
+    "price": 3.99,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Table_grapes_on_a_plate_01.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Strawberry",
+    "price": 4.50,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Perfect_Strawberry.jpg"
   }
 ]
